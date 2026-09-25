@@ -1,11 +1,11 @@
 # Storm King's Thunder - DM Vault
 
-Private Obsidian vault for running *Storm King's Thunder* (D&D 5e, 2014 rules) over Tabletop Simulator + Discord.
+Obsidian vault for running *Storm King's Thunder* (D&D 5e, 2014 rules) over Tabletop Simulator + Discord.
 
-**This repository must stay PRIVATE.** It contains spoilers and page references to a copyrighted book.
-PDFs are excluded by `.gitignore` and live only on the DM's computer in `_Sources/`.
+**Spoiler warning:** this is the DM's vault. Players, stay out: it contains spoilers and your fellow players' secrets.
+It contains no book text, only page references. PDFs are excluded by `.gitignore` and live only on the DM's computer in `_Sources/`.
 
-Open `00 Home.md` in Obsidian to start.
+Open `00 Home.md` in Obsidian to start. **Claude sessions:** read [`HANDOVER.md`](HANDOVER.md) first.
 
 | Folder | What goes in it |
 |---|---|
