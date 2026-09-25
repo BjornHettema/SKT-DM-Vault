@@ -1,0 +1,15 @@
+# --- Obsidian: per-device UI state (changes constantly, not worth syncing)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# --- Source books & character sheet PDFs: copyrighted / large. NEVER push these to GitHub.
+_Sources/*
+!_Sources/README.md
+*.pdf
+
+# --- OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
