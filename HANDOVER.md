@@ -31,6 +31,7 @@ If Claude can't see the folder, the folder isn't connected to that task. Add it 
 - [ ] Session 2 prep: the Seven Snakes, then the orc siege ("Ear Seekers", p. 28), which is very dangerous at level 2. See [[Nightstone - Kella and the Seven Snakes]].
 - [ ] Discord server channels (see the guide) and Avrae (optional).
 - [ ] Tabletop Simulator: D&D table mod + Nightstone map (player version ready: `_Sources/Maps/Nightstone - player map.png`, local only).
+- [ ] Before session 2-3: magic item wish lists from the players, pre-rolled giant loot, start foreshadowing, and pick the chapter 2 town (recommended: Bryn Shander). See [[Guide to the Guide - Takeaways]].
 - [ ] Optional: publish the player wiki as a website with Quartz.
 - [x] Book text copy for fast lookups: `_Sources/Storm Kings Thunder - text.txt` (added on the new PC 2026-10-04; on the old laptop it may be missing).
 
