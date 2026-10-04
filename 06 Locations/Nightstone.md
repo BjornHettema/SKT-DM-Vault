@@ -12,7 +12,7 @@ tags: [location]
 # Nightstone
 
 **Book:** [[Storm Kings Thunder.pdf#page=21|p. 20]] · Gazetteer entry: [[Storm Kings Thunder.pdf#page=102|p. 101]]
-**Map:** Map 1.1: Nightstone - [[Storm Kings Thunder.pdf#page=22|p. 21]]
+**Map:** Map 1.1: Nightstone - [[Storm Kings Thunder.pdf#page=22|p. 21]] · Player map: [[Nightstone - player map.png]] · Where it is: [[The North - player map.jpg]] (marker 1 on [[The North - DM map.jpg]])
 **First impression (read-aloud idea, in your own words):**
 
 ## Notable features

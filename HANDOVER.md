@@ -30,7 +30,7 @@ If Claude can't see the folder, the folder isn't connected to that task. Add it 
 - [ ] Send the handouts: everyone gets `Welcome to Storm King's Thunder.pdf`, and each player only their own letter (all in `_Sources/Player Handouts/`, local only). The same welcome text is on the player wiki as *Welcome*, plus a *Leads* page.
 - [ ] Session 2 prep: the Seven Snakes, then the orc siege ("Ear Seekers", p. 28), which is very dangerous at level 2. See [[Nightstone - Kella and the Seven Snakes]].
 - [ ] Discord server channels (see the guide) and Avrae (optional).
-- [ ] Tabletop Simulator: D&D table mod + Nightstone map (player version ready: `_Sources/Maps/Nightstone - player map.png`, local only).
+- [ ] Tabletop Simulator: D&D table mod + Nightstone map (player version ready: `_Sources/Maps/Nightstone - player map.png`, local only). Optional: share `_Sources/Maps/The North - player map.jpg` with the players so they see where Nightstone is.
 - [ ] Before session 2-3: magic item wish lists from the players, pre-rolled giant loot, start foreshadowing, and pick the chapter 2 town (recommended: Bryn Shander). See [[Guide to the Guide - Takeaways]].
 - [ ] Optional: publish the player wiki as a website with Quartz.
 - [x] Book text copy for fast lookups: `_Sources/Storm Kings Thunder - text.txt` (added on the new PC 2026-10-04; on the old laptop it may be missing).
@@ -56,14 +56,14 @@ If Claude can't see the folder, the folder isn't connected to that task. Add it 
 | Claude file access | `device_bash` **fails on both PCs** (laptop: a Windows update blocks it; desktop: "Workspace unavailable"). Use `device_list_dir`, `device_stage_files` (read) and `device_commit_files` (write) instead. Retry `device_bash` once per session; it may work after a Windows update. |
 | Blocked | Writing inside any `.git` folder is not allowed via Claude's tools. Git operations that need the terminal must be done by Jeroen in **Git Bash**. |
 | Browser | Claude's in-app browser has github.com allowed; Jeroen signs in himself (Claude never types passwords). |
-| Timezone | Account says Asia/Bangkok (UTC+7), but check: the start message gives Jeroen's local time - use that for live-log timestamps. |
-| Table setup | **PC:** Tabletop Simulator (with a Steam Workshop D&D table mod; its initiative and HP tracking are used for combat), Obsidian for reading, Claude desktop app running so the vault stays linked. **Laptop:** the same Claude chat, used for questions and updates. **Phone:** Discord voice. Sessions run about 12:00-17:00 with a break around 14:15. Full procedure: [[Session Day Runbook]]. |
+| Timezone | Jeroen lives in **UTC+7** (Bangkok). Sessions are scheduled in **Amsterdam time** (the players' time): 12:00-17:00 Amsterdam = **17:00-22:00 for Jeroen**. Use the local time from his start message for live-log timestamps, and say "AMS" when you mean the players' clock. |
+| Table setup | **PC:** Tabletop Simulator (with a Steam Workshop D&D table mod; its initiative and HP tracking are used for combat), Obsidian for reading, Claude desktop app running so the vault stays linked. **Laptop:** the same Claude chat, used for questions and updates. **Phone:** Discord voice. Sessions run about 12:00-17:00 Amsterdam time (17:00-22:00 Jeroen's time) with a break around 14:15 AMS. Full procedure: [[Session Day Runbook]]. |
 | DM style | New DM, new to the campaign. He mostly asks "the party does X, what happens?". Treat questions as updates (log what they reveal), answer with what to say or roll plus the page, and give a status plus "likely next" on `break`. He does **not** want to report every event. |
 
 ## Vault conventions
 
 - **Book page links:** `[[Storm Kings Thunder.pdf#page=N|p. M]]` where **PDF page N = book page M + 1**. Inside tables, escape the pipe: `\|`. The PDF is `_Sources/Storm Kings Thunder.pdf` (local only).
-- **Other sources in `_Sources/`:** `Guide to the guide.pdf` (Sean McGovern's community *A Guide to Storm King's Thunder*: chapter-by-chapter running notes, Monster Manual page refs, a sample campaign outline); `Character Sheets/`; `Maps/Nightstone - player map.png`.
+- **Other sources in `_Sources/`:** `Guide to the guide.pdf` (Sean McGovern's community *A Guide to Storm King's Thunder*: chapter-by-chapter running notes, Monster Manual page refs, a sample campaign outline); `Character Sheets/`; `Session 001 - DM Briefing.pdf` (21-page DM briefing for session 1: scenes, NPCs, foreshadowing seeds, map); `Maps/`: `Nightstone - player map.png`, the full high-res Sword Coast map (`HighRes (without Saltmarsh) (1) (1).jpg`), `The North - DM map.jpg` (campaign places 1-10) and `The North - player map.jpg` (player-safe). All listed in [[Maps Index]].
 - **`_Sources/` is gitignored** (PDFs, character sheets, book text). Never put book text anywhere else, and never commit PDFs.
 - **Folders:** `00 Inbox`, `01 Campaign`, `02 Sessions`, `03 Party`, `04 Chapters`, `05 NPCs`, `06 Locations`, `07 Factions`, `08 Encounters`, `09 Handouts`, `_Templates`, `_Attachments`, `_Sources`.
 - **Frontmatter used by the dashboards:** sessions `type: session`, `session_number`; live logs `type: livelog`; NPCs `type: npc`, `met`, `location`, `faction`, `status`, `attitude`; PCs `type: pc`, `absences`, `inspiration`; chapters `type: chapter`, `status`.

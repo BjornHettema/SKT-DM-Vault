@@ -40,8 +40,11 @@ Asking a lot is fine; that's what Claude is for. Answers come back in a few line
 
 ## The timeline (12:00-17:00)
 
+> [!note] Times are Amsterdam time (the players' clock)
+> For you that's **5 hours later**: 11:00 → 16:00, 12:00 → **17:00**, 14:15 → 19:15, 17:00 → **22:00**. Give Claude your own local time in the start message.
+
 ### 11:00 - Preparation (60 min)
-- [ ] Read [[Session 001 - Nightstone]] sections 0-4 once (about 20 min). You don't need the whole book.
+- [ ] Read [[Session 001 - Nightstone]] sections 0-4 once (about 20 min), or pages 1-2 of `_Sources/Session 001 - DM Briefing.pdf`. You don't need the whole book.
 - [ ] Open the book PDF at page 19 and glance at the map on page 21 (5 min).
 - [ ] TTS: load your table and the map, place the minis, check that the players can join.
 - [ ] Have the players received the welcome guide and their letters? Has everyone made their sheet fix?

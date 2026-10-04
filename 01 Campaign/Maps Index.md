@@ -7,15 +7,44 @@ Book maps are **DM maps**: they show secret doors, room numbers and traps. Don't
 For TTS, use a player-safe version: redraw it, crop out the labels, or buy/find a player map you're licensed to use.
 Once a map is uploaded to TTS (Cloud Manager), paste its URL into the **TTS URL** column so you can find it again.
 
+## Regional maps (high resolution, local only)
+
+All three are in `_Sources/Maps` (gitignored: they show here in Obsidian, not on GitHub).
+
+| Map | What it's for | Safe for players? | TTS URL |
+|---|---|---|---|
+| [[HighRes (without Saltmarsh) (1) (1).jpg\|The Sword Coast (full, 10200 × 6600)]] | The whole Sword Coast and the North. Zoom in for any town. | Yes, no spoilers on it | |
+| [[The North - DM map.jpg]] | The North with the campaign places marked 1-10 (key below). | **No**: shows where the story goes | |
+| [[The North - player map.jpg]] | Waterdeep to Daggerford with "Nightstone: you are here". Share on Discord or put it in TTS. | Yes | |
+
+![[The North - DM map.jpg|700]]
+
+**Key to the DM map**
+
+| # | Place | Why it matters |
+|---|---|---|
+| 1 | [[Nightstone]] | Chapter 1 (sessions 1-4). About 10 miles north of the High Road. |
+| 2 | Ardeep Forest | Wood elves (Rond Arrowhome) at war with the Ear Seekers orcs; old quarrel with the Nandars. Session 2. |
+| 3 | [[Waterdeep]] | Where the party answered Lady Nandar's notice. |
+| 4 | Daggerford | Base of the Snail, the Zhentarim boss behind the Seven Snakes (chapter 3). |
+| 5 | [[Bryn Shander]] | Recommended chapter 2 town (Sheriff Markham Southwell, Sir Baric). 26 days by Zephyros' tower. |
+| 6 | [[Goldenfields]] | Chapter 2 alternative (Miros Xelbrin + Rillix; Zhent Shalvus Martholio). 3 days by tower. |
+| 7 | [[Triboar]] | Chapter 2 alternative (Alaestra Ulgar). 11½ days by tower. |
+| 8 | [[Neverwinter]] | Sir Baric's trail from Bryn Shander. |
+| 9 | Helm's Hold | The extremist Helm monastery: [[Wolfram Erenwald]]'s memory thread. |
+| 10 | The Evermoors | [[Lyn Armaal]] (Countess Sansuri's cloud castle) floats a mile above it (chapter 9). The "castle drifted east" arrow is the optional Sansuri tie. |
+
+## Book maps
+
 | Map | Chapter | Book page | Player version ready? | TTS URL |
 |---|---|---|---|---|
-| Map 1.1: Nightstone | [[Ch 01 - A Great Upheaval]] | [[Storm Kings Thunder.pdf#page=22\|p. 21]] | | |
+| Map 1.1: Nightstone | [[Ch 01 - A Great Upheaval]] | [[Storm Kings Thunder.pdf#page=22\|p. 21]] | Yes: [[Nightstone - player map.png]] | |
 | Map 1.2: Dripping Caves | [[Ch 01 - A Great Upheaval]] | [[Storm Kings Thunder.pdf#page=30\|p. 29]] | | |
 | Map 1.3: Tower of Zephyros | [[Ch 01 - A Great Upheaval]] | [[Storm Kings Thunder.pdf#page=34\|p. 33]] | | |
 | Map 2.1: Bryn Shander | [[Ch 02 - Rumblings]] | [[Storm Kings Thunder.pdf#page=40\|p. 39]] | | |
 | Map 2.2: Goldenfields | [[Ch 02 - Rumblings]] | [[Storm Kings Thunder.pdf#page=46\|p. 45]] | | |
 | Map 2.3: Triboar | [[Ch 02 - Rumblings]] | [[Storm Kings Thunder.pdf#page=56\|p. 55]] | | |
-| Map 3.1: The North | [[Ch 03 - The Savage Frontier]] | [[Storm Kings Thunder.pdf#page=75\|p. 74]] | | |
+| Map 3.1: The North | [[Ch 03 - The Savage Frontier]] | [[Storm Kings Thunder.pdf#page=75\|p. 74]] | Use the regional maps above instead | |
 | Map 3.2: Beorunna's Well | [[Ch 03 - The Savage Frontier]] | [[Storm Kings Thunder.pdf#page=77\|p. 76]] | | |
 | Map 3.3: Everlund | [[Ch 03 - The Savage Frontier]] | [[Storm Kings Thunder.pdf#page=83\|p. 82]] | | |
 | Map 3.4: Flint Rock | [[Ch 03 - The Savage Frontier]] | [[Storm Kings Thunder.pdf#page=85\|p. 84]] | | |
