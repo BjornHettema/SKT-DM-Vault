@@ -44,6 +44,20 @@ AC 18 · HP 13 · Speed 30 ft · Passive Perception 10 · Darkvision 60 ft; resi
 | Feature | Military Rank (Infantry Veteran): soldiers of his old organisation defer to him; can requisition simple gear and horses. |
 
 
+## Session 1: getting into the story
+
+**Sheet fix (before the session):** get the player's real name and Discord handle, and fill in `player` and `discord` above. The sheet itself is fine.
+
+**Private message to send Wolfram's player (Discord DM):**
+> Just for you: the priests of Helm who nursed Wolfram back to health received Lady Nandar's plea for help against goblin raiders, and asked you to answer it. A post to stand watch over. Your watch continues in Nightstone.
+
+**Tonight's spotlight:**
+- The **four leaderless guards** in the keep look for someone to take charge, and a corporal who stands his ground is exactly that. Let him organise them.
+- He arrives to find the person he was meant to protect, Lady Nandar, already dead. That fits his flaw ("can't leave a true enemy unchallenged") and makes a strong motive to rescue the villagers.
+- Lay on Hands (5 HP pool) and Divine Sense: the Nandar crypt specter will register if he checks the graveyard.
+
+**Hold for later:** the gap in his memory.
+
 ## DM-only: secrets
 > [!danger] Never copy this section to the Player Wiki
 - A void in his memory at the end of his service: he doesn't know who brought him to Helm's temple, or what nearly killed him.

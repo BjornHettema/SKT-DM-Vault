@@ -44,6 +44,25 @@ AC 16 · HP 10 · Speed 25 ft · Passive Perception 10 · Darkvision 60 ft
 | Feature | Safe Haven (faction agent network: safe houses, room and board, information). |
 
 
+## Session 1: getting into the story
+
+**Sheet fix (before the session, with Max):** INT 18 isn't possible with point buy, where 17 is the maximum. Suggested fix: **INT 17**, plus 2 point-buy points left over to spend (for example WIS 10 → 12).
+Numbers that change with INT 17 (+3):
+- Arcana, History and Investigation +5
+- Nature and Religion +3
+- Spell attack +5, spell save DC 13
+- Prepared spells: 3
+
+**Private message to send Max (Discord DM):**
+> Just for you: before the trip, your Zhentarim contact in Waterdeep gave B'Leep a small job. At the Nightstone Inn, find a travelling monk called **Kella** and show her the network's sign. She'll have work for you. That's all you know. Share it with the party or keep it to yourself; your call.
+
+**Tonight's spotlight:**
+- Reads the **Infernal** runes on the Agganor door (4f).
+- Picks the locks (Agganor door DC 15; Morak's chest DC 20).
+- Recognises Kella's flying snake as a Zhentarim messenger. Kella will quietly test whether he's "one of them". It's a dilemma, not a trap: the Zhents want the village while its people are prisoners, and B'Leep hates cruelty.
+
+**Hold for later:** the storm that killed his family, the mentor, the spinning top, the dream workshop.
+
 ## DM-only: secrets
 > [!danger] Never copy this section to the Player Wiki
 - The Secret of the Dreamwright: his inventions come from a lucid dream workshop; he hides this from everyone.

@@ -1,6 +1,6 @@
 ---
 type: npc
-status: unknown
+status: dead
 location: "[[Nightstone]]"
 faction: ""
 chapter: "[[Ch 01 - A Great Upheaval]]"
@@ -12,16 +12,17 @@ tags: [npc]
 ---
 # Lady Velrosa Nandar
 
-**One-liner:** Noble who rules Nightstone. See the Nandars sidebar.
+**One-liner:** High Steward of Nightstone, a Waterdhavian noble. **Killed** when giant boulders collapsed the keep's great hall; her body lies in the hall, watched over by the [[Nandar Keep Guards]].
 **Book:** [[Storm Kings Thunder.pdf#page=27|p. 26]]
-**Wants:**
+**Wanted:** peace with the Ardeep elves after they killed her husband, Lord Drezlin, a year ago. She posted the notice offering a reward for dealing with the goblins.
 **Voice / mannerism:**
 
 ## What the party knows
 -
 
 ## DM-only secrets
--
+- Wears a nonmagical gold wedding ring set with tourmalines (750 gp). The guards object to anyone taking it.
+- Her bedroom chest is guarded by a flying sword (keep area 14e).
 
 ## Appearances
 ```dataview

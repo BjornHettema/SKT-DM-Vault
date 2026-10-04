@@ -44,6 +44,21 @@ AC 14 · HP 10 · Speed 30 ft · Passive Perception 11 · Resistance to poison
 | Feature | (Former) Clan Crafter: those who know clan warfare may recognise the construct's design; grants access to restricted info on clan engineering, but recognition can bring revenge-seekers. |
 | Trinket | A cracked metal insignia of the old guild, branded on the arm. |
 
+## Session 1: getting into the story
+
+**Sheet fix (before the session, with Oxymoronic):**
+- **Warforged:** play it exactly as written. Being an orc artificer fused into the construct is backstory only, with no extra mechanics, so it fits "rules as written". It's your call whether you accept the reflavour.
+- **Background feature:** the custom "(former) Clan Crafter" feature is homebrew. Swap it for the official Clan Crafter feature from the *Sword Coast Adventurer's Guide* (dwarves offer free room and board) and keep the custom text as story.
+
+**Private message to send Oxymoronic (Discord DM):**
+> Just for you: travellers on the High Road talk about the stone Nightstone is named after, a great block of black glass carved with glyphs nobody can read, said to hum with old magic. When Shay heard that, the shard inside you stirred for the first time in months. Maybe the stone knows something about what you are.
+
+**Tonight's spotlight:**
+- At the **empty pit in the square** where the nightstone stood, the shard tugs faintly, then goes quiet. Pure flavour, no mechanics. The stone is gone; the giants took it.
+- Intimidation +5: questioning captured goblins.
+
+**Hold for later:** the clan's hunters, what the shard really is, and how it connects to giant runes.
+
 ## DM-only: secrets
 > [!danger] Never copy this section to the Player Wiki
 - Two minds in one body: an orc artificer fused with the war construct he built.

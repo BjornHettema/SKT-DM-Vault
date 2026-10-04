@@ -44,6 +44,20 @@ AC 18 · HP 10 · Speed 30 ft · Passive Perception 15 · Darkvision 60 ft
 | Feature | Shelter of the Faithful (free healing and care at temples of her faith; support at a modest lifestyle). |
 | Trinket | A fragment of a beautiful song, written as musical notes on two pieces of parchment. |
 
+## Session 1: getting into the story
+
+**Sheet fix (before the session, with Niels):** she's **Neutral Good**, but her ideal *Faith* is tagged Lawful, and alignment is strictly enforced. Pick a Good ideal from the Acolyte list instead (for example *Charity*: always help those in need), or keep *Faith* and drop the Lawful tag.
+
+**Private message to send Niels (Discord DM):**
+> Just for you: Lady Nandar's notice asked for more than goblin-hunters. Her village has a long, bloody feud with the elves of the Ardeep Forest, and she wanted someone skilled at making peace. The temple of Selûne thought of you. You speak Elvish; you might be the one to end it.
+
+**Tonight's spotlight:**
+- Calming the four arguing guards in the keep and comforting them over Lady Nandar's death. The mediation job she came for has just lost the person who hired her.
+- The village temple honours Lathander and Mielikki, not Selûne, so *Shelter of the Faithful* doesn't apply here. She can still offer prayers for the dead.
+- Healing: she's the party's lifeline at level 1.
+
+**Hold for later:** she speaks **Giant**. Save that for when it matters most (Harshnag, Zephyros, Maelstrom). The elves (session 2, the orc siege) are her first diplomacy test.
+
 ## DM-only: secrets
 > [!danger] Never copy this section to the Player Wiki
 - (none written yet - ask the player what they're hiding)
