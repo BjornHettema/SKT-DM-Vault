@@ -48,8 +48,10 @@ AC 18 · HP 13 · Speed 30 ft · Passive Perception 10 · Darkvision 60 ft; resi
 
 **Sheet fix (before the session):** get the player's real name and Discord handle, and fill in `player` and `discord` above. The sheet itself is fine.
 
-**Private message to send Wolfram's player (Discord DM):**
-> Just for you: the priests of Helm who nursed Wolfram back to health received Lady Nandar's plea for help against goblin raiders, and asked you to answer it. A post to stand watch over. Your watch continues in Nightstone.
+**Personal hook (simple version):** **Helm's priests** asked him to help protect Lady Nandar's village.
+
+**Personal letter:** `_Sources/Player Handouts/Letter - Wolfram Erenwald.pdf` (local only). It has the hook, the notice, the sheet fix and their campfire question.
+**Campfire question:** *What does Wolfram do every evening before he goes to sleep?*
 
 **Tonight's spotlight:**
 - The **four leaderless guards** in the keep look for someone to take charge, and a corporal who stands his ground is exactly that. Let him organise them.

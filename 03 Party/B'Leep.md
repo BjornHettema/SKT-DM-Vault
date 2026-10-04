@@ -53,13 +53,15 @@ Numbers that change with INT 17 (+3):
 - Spell attack +5, spell save DC 13
 - Prepared spells: 3
 
-**Private message to send Max (Discord DM):**
-> Just for you: before the trip, your Zhentarim contact in Waterdeep gave B'Leep a small job. At the Nightstone Inn, find a travelling monk called **Kella** and show her the network's sign. She'll have work for you. That's all you know. Share it with the party or keep it to yourself; your call.
+**Personal hook (simple version):** He came for the **reward**: he needs money for parts. His letter also reminds him he's a Zhentarim agent who knows their signs, including the **winged snake**.
+
+**Personal letter:** `_Sources/Player Handouts/Letter - B'Leep.pdf` (local only). It has the hook, the notice, the sheet fix and their campfire question.
+**Campfire question:** *What have you been building, fixing or tinkering with during this trip, and who in the party noticed?*
 
 **Tonight's spotlight:**
 - Reads the **Infernal** runes on the Agganor door (4f).
 - Picks the locks (Agganor door DC 15; Morak's chest DC 20).
-- Recognises Kella's flying snake as a Zhentarim messenger. Kella will quietly test whether he's "one of them". It's a dilemma, not a trap: the Zhents want the village while its people are prisoners, and B'Leep hates cruelty.
+- Can recognise **Kella's flying snake** as a Zhentarim sign (straight from the book, no setup needed). If he does, she tries to win him over. It's a dilemma, not a trap: the Zhents want the village while its people are prisoners, and B'Leep hates cruelty.
 
 **Hold for later:** the storm that killed his family, the mentor, the spinning top, the dream workshop.
 

@@ -50,8 +50,10 @@ AC 14 · HP 10 · Speed 30 ft · Passive Perception 11 · Resistance to poison
 - **Warforged:** play it exactly as written. Being an orc artificer fused into the construct is backstory only, with no extra mechanics, so it fits "rules as written". It's your call whether you accept the reflavour.
 - **Background feature:** the custom "(former) Clan Crafter" feature is homebrew. Swap it for the official Clan Crafter feature from the *Sword Coast Adventurer's Guide* (dwarves offer free room and board) and keep the custom text as story.
 
-**Private message to send Oxymoronic (Discord DM):**
-> Just for you: travellers on the High Road talk about the stone Nightstone is named after, a great block of black glass carved with glyphs nobody can read, said to hum with old magic. When Shay heard that, the shard inside you stirred for the first time in months. Maybe the stone knows something about what you are.
+**Personal hook (simple version):** Heard about the **glyph-covered black stone** Nightstone is named after; the shard inside them reacted.
+
+**Personal letter:** `_Sources/Player Handouts/Letter - Shay.pdf` (local only). It has the hook, the notice, the sheet fix and their campfire question.
+**Campfire question:** *Which of your two minds does the talking with strangers, and how do the others notice when the other one takes over?*
 
 **Tonight's spotlight:**
 - At the **empty pit in the square** where the nightstone stood, the shard tugs faintly, then goes quiet. Pure flavour, no mechanics. The stone is gone; the giants took it.

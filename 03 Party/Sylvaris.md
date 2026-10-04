@@ -48,8 +48,10 @@ AC 18 · HP 10 · Speed 30 ft · Passive Perception 15 · Darkvision 60 ft
 
 **Sheet fix (before the session, with Niels):** she's **Neutral Good**, but her ideal *Faith* is tagged Lawful, and alignment is strictly enforced. Pick a Good ideal from the Acolyte list instead (for example *Charity*: always help those in need), or keep *Faith* and drop the Lawful tag.
 
-**Private message to send Niels (Discord DM):**
-> Just for you: Lady Nandar's notice asked for more than goblin-hunters. Her village has a long, bloody feud with the elves of the Ardeep Forest, and she wanted someone skilled at making peace. The temple of Selûne thought of you. You speak Elvish; you might be the one to end it.
+**Personal hook (simple version):** Lady Nandar also wanted a **peacemaker** for the village's old quarrel with the forest elves; her temple recommended Sylvaris.
+
+**Personal letter:** `_Sources/Player Handouts/Letter - Sylvaris.pdf` (local only). It has the hook, the notice, the sheet fix and their campfire question.
+**Campfire question:** *Who in this group would you most like to understand better, and why?*
 
 **Tonight's spotlight:**
 - Calming the four arguing guards in the keep and comforting them over Lady Nandar's death. The mediation job she came for has just lost the person who hired her.

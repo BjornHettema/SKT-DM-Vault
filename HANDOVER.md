@@ -27,7 +27,7 @@ If Claude can't see the folder, the folder isn't connected to that task. Add it 
 
 **Open to-dos before or around session 1**
 - [ ] Settle the sheet checks. Suggested fixes are in each PC note under *Session 1* (B'Leep INT 18 → 17; Shay: official Clan Crafter feature; Sylvaris: a Good ideal; Wolfram: player name).
-- [ ] Send each player their private hook (Discord DM), written in each PC note under *Session 1*.
+- [ ] Send the handouts: everyone gets `Welcome to Storm King's Thunder.pdf`, and each player only their own letter (all in `_Sources/Player Handouts/`, local only). The same welcome text is on the player wiki as *Welcome*, plus a *Leads* page.
 - [ ] Session 2 prep: the Seven Snakes, then the orc siege ("Ear Seekers", p. 28), which is very dangerous at level 2. See [[Nightstone - Kella and the Seven Snakes]].
 - [ ] Discord server channels (see the guide) and Avrae (optional).
 - [ ] Tabletop Simulator: D&D table mod + Nightstone map (player version ready: `_Sources/Maps/Nightstone - player map.png`, local only).
@@ -39,6 +39,9 @@ If Claude can't see the folder, the folder isn't connected to that task. Add it 
 - Monsters: use **2014** stat blocks (Fantasy Statblocks' built-in SRD), not the 2024 Monster Manual Jeroen owns.
 - Both GitHub repos are **public by Jeroen's choice** (DM vault included, so players could read spoilers and live logs). Switching to private is fine at any time: repo → Settings → Change visibility.
 - Levelling: XP or milestones as written; level up only on a short or long rest.
+- **How the party met:** all four answered Lady Nandar's notice in Waterdeep and travelled the High Road together. Session 1 opens with a 15-minute campfire scene: in-character introductions plus one question per player (questions in [[Session 001 - Nightstone]]).
+- **Personal hooks are kept simple** (Jeroen is a new DM, the players are new): Wolfram - sent by Helm's priests; Sylvaris - peacemaker for the elf quarrel; Shay - the glyph stone rumour; B'Leep - the reward, plus he can recognise Kella's Zhentarim snake. The bigger backstory threads (B'Leep's storm and mentor, Shay's Ostorian shard, Wolfram's memory and Helm's Hold) are parked for later; see each PC note.
+- **Players are new to D&D and to sandbox play.** Keep the player wiki's *Leads* page current, and end each session by asking what they want to do next.
 
 ## Environment facts (so you don't rediscover them)
 

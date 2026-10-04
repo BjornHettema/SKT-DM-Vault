@@ -20,21 +20,30 @@ Book: [[Storm Kings Thunder.pdf#page=20|p. 19-28]] · Map: [[Storm Kings Thunder
 ## 0. Before the session
 
 - [ ] **Sheets:** settle the open sheet issue with each player (2 minutes each). The suggested fix is in each PC note under *Session 1*.
-- [ ] **Private hooks:** send each player their own short message on Discord, from the *Session 1* section of their PC note. Each player only gets their own.
+- [ ] **Handouts:** send everyone `Welcome to Storm King's Thunder.pdf`, and each player **only their own** letter. All five are in `_Sources/Player Handouts/`.
 - [ ] **Tabletop Simulator:** upload `_Sources/Maps/Nightstone - player map.png` (Upload → Cloud Manager) and place it with **Objects → Custom → Tile**. One map square is 10 feet, so set the TTS grid to 2 squares per map square, or just use the map for orientation. Add 4 player minis, 14 goblins and 2 big wolves. Save the table.
 - [ ] **Screens:** open this note, [[Nightstone - Goblins and Worgs]] and the book PDF side by side.
 - [ ] **Live log:** paste the start prompt into the Claude chat (session 1, all present).
 - [ ] **Discord:** voice channel open; dice go in #dice-rolls or TTS, and only when you call for a roll.
 
-## 1. Opening (15 min)
+## 1. Opening (25 min)
 
 1. **Rules check (2 min).** Three reminders from session 0: death is permanent; rolls you didn't ask for don't count; levelling uses **milestones** from the book, and you level up only at a short or long rest. Add one warning for this campaign: **some fights are meant to be too big. Running away or talking is a valid choice.** ([[Guide to the guide.pdf|Guide to the Guide]] p. 4)
-2. **Introductions (1 min each).** Each player says their name, what everyone can see at a glance, and one thing they'd tell a stranger.
-3. **Why you're together.** In Waterdeep, a notice from **Lady Velrosa Nandar** of Nightstone offered a reward for dealing with goblin raiders. Each of you answered it for your own reasons (your private hooks), and you've spent the last few days walking the High Road together.
+2. **The last campfire (15 min).** Set the scene in your own words:
+    > *The last night on the High Road. Rain has finally stopped; the fire hisses on damp wood. Somewhere ahead is Nightstone and Lady Nandar's reward. You've walked together for days now, but how well do you really know each other?*
+
+    Go around the circle. Each player gives their **30-second introduction in character** (name, what the others see, one thing they'd tell a fellow traveller). Then ask them **their question** from their letter:
+    - **B'Leep:** What have you been building, fixing or tinkering with during this trip, and who noticed?
+    - **Shay:** Which of your two minds does the talking with strangers, and how do the others notice the switch?
+    - **Sylvaris:** Who in this group would you most like to understand better, and why?
+    - **Wolfram:** What does Wolfram do every evening before he goes to sleep?
+
+    Optional: ask each player for **one link** with another character from the trip ("B'Leep fixed my boot"). Then let them talk to each other for a minute; don't rush to fill silences.
+3. **Next day (1 min).** A quick summary: an uneventful day's walk, then the signpost at dusk. Go to the strong start below.
 
 ## 2. Strong start (read aloud, or say it in your own words)
 
-> The High Road has been empty for hours. At dusk a crooked signpost marks a muddy trail north: *Nightstone*. Ten miles later, you hear it before you see it: a bell ringing, over and over, with no rhythm to it. A river curls around a wooden palisade. Past it you can make out a windmill, a steeple and steep rooftops, and to the south a stone keep on a hill, half of it caved in. The drawbridge is down. The two stone watchtowers beside the gate are empty. Apart from that bell, nothing moves.
+> The next day, the High Road has been empty for hours. At dusk a crooked signpost marks a muddy trail north: *Nightstone*. Ten miles later, you hear it before you see it: a bell ringing, over and over, with no rhythm to it. A river curls around a wooden palisade. Past it you can make out a windmill, a steeple and steep rooftops, and to the south a stone keep on a hill, half of it caved in. The drawbridge is down. The two stone watchtowers beside the gate are empty. Apart from that bell, nothing moves.
 
 Then ask: **"What do you do?"**
 
