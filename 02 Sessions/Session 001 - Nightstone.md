@@ -131,14 +131,31 @@ Goblin p. 166 · Worg p. 341 · Spy (Kella) p. 349 · Flying snake p. 322 · Gua
 -
 
 ## 10. After the session
+Full log: [[Session 001 - Live Log]]. Ended at **03:00 in-game**, party split (see the log).
+
 ### Loot & rewards
--
+- Silver necklace (20 sp), 1 gp, a small dagger (who carries what: not recorded).
 
 ### XP / milestone
--
+- Level 2 **not yet**: one goblin is still asleep in a house. Milestone when it's dealt with; level up at the next rest.
 
 ### Threads opened / closed
-- [ ]
+- [x] The worgs in the square (killed)
+- [ ] B'Leep and Kella: private talk (play it between sessions)
+- [ ] Wolfram sees Lady Nandar's body (play it between sessions)
+- [ ] The last goblin, asleep in a house the players don't know about (pick the house)
+- [ ] 13 goblins fled, most likely to Hark: the Dripping Caves will be on alert
+- [ ] The Seven Snakes haven't arrived yet: bring them in at the start of session 2
+- [ ] The drawbridge: did the guards raise it? (decide at the start of session 2)
 
 ### Player recap (spoiler-free - copy to the Player Wiki)
+*Posted to the Player Wiki: Session Recaps/Session 001 - Nightstone.*
+
+After a last night around the campfire on the High Road, four travellers followed a muddy trail north to Nightstone, drawn by Lady Nandar's notice. They found the village deserted: the drawbridge down, the watchtowers empty, and a bell ringing with no one to ring it. Two huge wolves were feeding in the village square. The party killed them, and the goblins looting the village scattered and fled.
+
+After resting, the party explored the village in the small hours. At the inn they found a survivor, Kella, a quiet traveller who had been left behind. She asked to speak with B'Leep alone.
+
+At the broken bridge to the keep, three of Lady Nandar's guards were waiting, and the party helped them across the gap. Wolfram asked to see Lady Nandar, and one guard led him inside. The other two hurried to the drawbridge with Shay and Sylvaris, and from the top of the gate tower they told what had happened: giants had come on clouds, rained rocks on Nightstone, and carried off the great black stone that stood in the square. The villagers had fled north, to some caves in the hills. One guard had caught a few words a giant shouted, and Sylvaris recognised the Giant tongue and a name: Ostoria, an ancient empire of giants that once ruled the North and fell, thousands of years ago, in a long war with dragons.
+
+It is three in the morning. Are the villagers safe in those caves? What do the giants want with the stone? And what does Kella want with B'Leep?
 

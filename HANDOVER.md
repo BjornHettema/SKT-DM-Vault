@@ -15,17 +15,33 @@ If Claude can't see the folder, the folder isn't connected to that task. Add it 
 
 ## Current state
 
-*Last updated: 2026-10-04 (moved to the new PC; session 1 is tonight).*
+*Last updated: 2026-10-04 (after session 1).*
 
 | | |
 |---|---|
-| Sessions played | Session 0 (session zero) |
-| Next session | Session 1 (2026-10-04) - [[Ch 01 - A Great Upheaval]], arriving at [[Nightstone]]. Prep: [[Session 001 - Nightstone]] |
-| Party level | 1 |
+| Sessions played | Session 0 (session zero), Session 1 (2026-10-04) |
+| Next session | Session 2 - still in [[Nightstone]], 03:00 in-game, party split. See *Where we stopped* below and [[Session 001 - Live Log]]. |
+| Party level | 1 (level 2 milestone pending: one goblin is still asleep in the village) |
 | Party | [[B'Leep]] (Max), [[Shay Rajul-Aegis]] (Oxymoronic), [[Sylvaris]] (Niels), [[Wolfram Erenwald]] (player name unknown - "Player One") |
-| Live logs so far | none |
+| Live logs so far | [[Session 001 - Live Log]] |
 
-**Open to-dos before or around session 1**
+**Where we stopped (end of session 1, 03:00 in-game)**
+- Worgs killed. The goblins fled the village, except **one asleep in a house** (the players don't know; the DM picks the house).
+- After a long rest the party found [[Kella Darkhope]] at the inn. [[B'Leep]] showed his Zhentarim tattoo; she asked to talk with him alone. The party half-trusts her.
+- [[B'Leep]]: at the inn with Kella. [[Wolfram Erenwald]]: in the keep with one guard, at Lady Nandar's body. [[Shay Rajul-Aegis]] and [[Sylvaris]]: on the drawbridge gate tower with two guards.
+- The party knows: giants came on clouds, dropped rocks, stole the stone; a giant shouted about "Ostoria" (an ancient giant empire that fell in a war with dragons). They know the villagers fled north to some caves, but not that goblins hold them prisoner.
+- Loot: silver necklace (20 sp), 1 gp, small dagger. No Inspiration recorded.
+- The **Seven Snakes have not arrived** (they are overdue: the party already had its long rest).
+
+**Open to-dos before session 2**
+- [x] Session 1 recap posted to the Player Wiki.
+- [ ] Between sessions: play B'Leep's private talk with Kella (Max) and Wolfram's scene with Lady Nandar's body (Player One). Tell Claude the outcome so the notes can be updated.
+- [ ] Decide: which house the last goblin sleeps in; whether the fourth guard (Kaelen Zam) is inside the keep; whether the guards raised the drawbridge.
+- [ ] Session 2 opening: the Seven Snakes ride up (if the drawbridge is raised, they call for it to be lowered). Then the Ear Seekers orc siege (p. 28), very dangerous at level 1-2.
+- [ ] 13 goblins fled, most likely back to Hark: the Dripping Caves will be on alert in session 3.
+- [ ] Confirm which version of the giant's words was used ("Careful! Ostoria's stone. The Countess waits." or "... Bring it home.").
+
+**Open to-dos carried over from session 1 prep**
 - [ ] Settle the sheet checks. Suggested fixes are in each PC note under *Session 1* (B'Leep INT 18 → 17; Shay: official Clan Crafter feature; Sylvaris: a Good ideal; Wolfram: player name).
 - [ ] Send the handouts: everyone gets `Welcome to Storm King's Thunder.pdf`, and each player only their own letter (all in `_Sources/Player Handouts/`, local only). The same welcome text is on the player wiki as *Welcome*, plus a *Leads* page.
 - [ ] Session 2 prep: the Seven Snakes, then the orc siege ("Ear Seekers", p. 28), which is very dangerous at level 2. See [[Nightstone - Kella and the Seven Snakes]].
@@ -92,3 +108,4 @@ Then save it as `_Sources/Storm Kings Thunder - text.txt` with `device_commit_fi
 | Session | Date | Chapter | Summary | Live log |
 |---|---|---|---|---|
 | 0 | 2026-09-25 (approx.) | - | Session zero: table rules agreed, four PCs created | - |
+| 1 | 2026-10-04 | [[Ch 01 - A Great Upheaval]] | Arrived at Nightstone; killed the worgs, goblins fled. Found Kella (B'Leep showed his Zhentarim tattoo) and three keep guards; learned about the giants and "Ostoria". Ended 03:00 in-game, party split. | [[Session 001 - Live Log]] |

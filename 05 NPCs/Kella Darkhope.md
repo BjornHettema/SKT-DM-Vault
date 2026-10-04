@@ -5,8 +5,8 @@ location: "[[Nightstone]]"
 faction: "[[Zhentarim]]"
 chapter: "[[Ch 01 - A Great Upheaval]]"
 attitude: neutral
-met: false
-first_met:
+met: true
+first_met: "[[Session 001 - Live Log]]"
 voice:
 tags: [npc]
 ---
@@ -19,7 +19,9 @@ tags: [npc]
 **Stat block:** Spy (2014).
 
 ## What the party knows
--
+- Found at the inn at 03:00, after the party's long rest: a quiet survivor who was left behind (Session 1).
+- B'Leep showed her his Zhentarim tattoo. She asked to speak with him alone; the rest of the party agreed. They half-trust her (Session 1).
+- **Pending:** B'Leep's private talk with her, played between sessions 1 and 2. Record the outcome here.
 
 ## DM-only secrets
 - Had nothing to do with the giants; she only takes advantage of the attack.

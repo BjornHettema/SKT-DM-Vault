@@ -5,8 +5,8 @@ location: "[[Nightstone]]"
 faction:
 chapter: "[[Ch 01 - A Great Upheaval]]"
 attitude: friendly
-met: false
-first_met:
+met: true
+first_met: "[[Session 001 - Live Log]]"
 voice:
 tags: [npc]
 ---
@@ -35,7 +35,10 @@ tags: [npc]
 - [[Sylvaris]]: calming the argument and comforting them in their grief.
 
 ## What the party knows
--
+- **Three** guards were outside the keep at 03:00; the party helped them across the gap in the bridge (Session 1). The fourth hasn't appeared (DM: decide whether Kaelen Zam is inside with the body).
+- One guard took Wolfram into the keep to see Lady Nandar (one-on-one scene pending).
+- Two guards, worried that the drawbridge was still down, went with Shay and Sylvaris to the gate tower. They told the party: giants came on clouds, dropped rocks, and stole the big stone; the villagers fled north to some caves; one repeated a few words a giant shouted (Ostoria).
+- Which guard is which: not fixed at the table yet.
 
 ## Appearances
 ```dataview

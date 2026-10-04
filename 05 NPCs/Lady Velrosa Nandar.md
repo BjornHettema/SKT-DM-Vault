@@ -18,7 +18,7 @@ tags: [npc]
 **Voice / mannerism:**
 
 ## What the party knows
--
+- Her guards watch over her in the keep. Wolfram asked to see her and a guard is taking him in (one-on-one scene pending, Session 1).
 
 ## DM-only secrets
 - Wears a nonmagical gold wedding ring set with tourmalines (750 gp). The guards object to anyone taking it.
