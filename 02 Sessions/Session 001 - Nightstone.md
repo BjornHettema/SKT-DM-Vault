@@ -23,7 +23,7 @@ Book: [[Storm Kings Thunder.pdf#page=20|p. 19-28]] · Map: [[Storm Kings Thunder
 - [ ] **Handouts:** send everyone `Welcome to Storm King's Thunder.pdf`, and each player **only their own** letter. All five are in `_Sources/Player Handouts/`.
 - [ ] **Tabletop Simulator:** upload `_Sources/Maps/Nightstone - player map.png` (Upload → Cloud Manager) and place it with **Objects → Custom → Tile**. One map square is 10 feet, so set the TTS grid to 2 squares per map square, or just use the map for orientation. Add 4 player minis, 14 goblins and 2 big wolves. Save the table.
 - [ ] **Screens:** open this note, [[Nightstone - Goblins and Worgs]] and the book PDF side by side.
-- [ ] **Live log:** paste the start prompt into the Claude chat (session 1, all present).
+- [ ] **Claude:** follow the [[Session Day Runbook]]. Start the chat on the PC with the start message at 11:40, then open the same chat on the laptop.
 - [ ] **Discord:** voice channel open; dice go in #dice-rolls or TTS, and only when you call for a roll.
 
 ## 1. Opening (25 min)

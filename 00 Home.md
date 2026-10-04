@@ -1,13 +1,13 @@
 # Storm King's Thunder
 
 > [!tip] Before you start the session
-> - Start the live log: in the Claude chat, type `start <session number>`.
+> - Follow the [[Session Day Runbook]]: start Claude on the PC with the start message, then open the same chat on the laptop.
 > - Open the current session note (the newest one under *Latest sessions* below).
 > - **Inspiration:** the players asked you to remember to hand it out. Check the tracker in the session note.
 > - Check absences: only 1 absence is allowed, and it needs your approval. See [[Party Overview]].
 
 ## Quick links
-[[Live Session with Claude]] · [[HANDOVER|Handover for Claude]] · [[Campaign Overview]] · [[Table Rules (Session 0)]] · [[Adventure Flow]] · [[Party Overview]] · [[Gazetteer of the North]] · [[Maps Index]] · [[Bestiary Index]] · [[Campaign Calendar]] · [[Open Threads]]
+[[Session Day Runbook]] · [[Live Session with Claude]] · [[HANDOVER|Handover for Claude]] · [[Campaign Overview]] · [[Table Rules (Session 0)]] · [[Adventure Flow]] · [[Party Overview]] · [[Gazetteer of the North]] · [[Maps Index]] · [[Bestiary Index]] · [[Campaign Calendar]] · [[Open Threads]]
 
 ## Latest sessions
 ```dataview

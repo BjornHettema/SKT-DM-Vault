@@ -3,6 +3,8 @@ type: guide
 ---
 # Live Session with Claude
 
+> [!tip] New here? Read the [[Session Day Runbook]] first. It has the setup, the start message and the timeline. This note is the full shorthand list.
+
 During play, keep the Claude chat open on your second screen and type short updates. Claude keeps the vault up to date, answers lookups and gives improv help, so you can keep your eyes on the table.
 
 **Claude writes to:** `02 Sessions/Session NNN - Live Log.md` (one per session, Claude's own note), plus NPC notes and [[Open Threads]].

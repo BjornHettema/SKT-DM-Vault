@@ -56,7 +56,9 @@ If Claude can't see the folder, the folder isn't connected to that task. Add it 
 | Claude file access | `device_bash` **fails on both PCs** (laptop: a Windows update blocks it; desktop: "Workspace unavailable"). Use `device_list_dir`, `device_stage_files` (read) and `device_commit_files` (write) instead. Retry `device_bash` once per session; it may work after a Windows update. |
 | Blocked | Writing inside any `.git` folder is not allowed via Claude's tools. Git operations that need the terminal must be done by Jeroen in **Git Bash**. |
 | Browser | Claude's in-app browser has github.com allowed; Jeroen signs in himself (Claude never types passwords). |
-| Timezone | Asia/Bangkok (UTC+7) |
+| Timezone | Account says Asia/Bangkok (UTC+7), but check: the start message gives Jeroen's local time - use that for live-log timestamps. |
+| Table setup | **PC:** Tabletop Simulator (with a Steam Workshop D&D table mod; its initiative and HP tracking are used for combat), Obsidian for reading, Claude desktop app running so the vault stays linked. **Laptop:** the same Claude chat, used for questions and updates. **Phone:** Discord voice. Sessions run about 12:00-17:00 with a break around 14:15. Full procedure: [[Session Day Runbook]]. |
+| DM style | New DM, new to the campaign. He mostly asks "the party does X, what happens?". Treat questions as updates (log what they reveal), answer with what to say or roll plus the page, and give a status plus "likely next" on `break`. He does **not** want to report every event. |
 
 ## Vault conventions
 
