@@ -41,7 +41,8 @@ Asking a lot is fine; that's what Claude is for. Answers come back in a few line
 ## The timeline (12:00-17:00)
 
 > [!note] Times are Amsterdam time (the players' clock)
-> For you that's **5 hours later**: 11:00 → 16:00, 12:00 → **17:00**, 14:15 → 19:15, 17:00 → **22:00**. Give Claude your own local time in the start message.
+> For you that's **5 hours later in summer time, 6 hours in winter time** (end of October to end of March).
+> Summer: 12:00 → **17:00**, 14:15 → 19:15, 17:00 → **22:00**. Winter: 12:00 → **18:00**, 14:15 → 20:15, 17:00 → **23:00**. Give Claude your own local time in the start message.
 
 ### 11:00 - Preparation (60 min)
 - [ ] Read [[Session 001 - Nightstone]] sections 0-4 once (about 20 min), or pages 1-2 of `_Sources/Session 001 - DM Briefing.pdf`. You don't need the whole book.

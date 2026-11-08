@@ -15,12 +15,12 @@ If Claude can't see the folder, the folder isn't connected to that task. Add it 
 
 ## Current state
 
-*Last updated: 2026-10-04 (after session 1).*
+*Last updated: 2026-11-08 (session 2 planned).*
 
 | | |
 |---|---|
 | Sessions played | Session 0 (session zero), Session 1 (2026-10-04) |
-| Next session | Session 2 - still in [[Nightstone]], 03:00 in-game, party split. See *Where we stopped* below and [[Session 001 - Live Log]]. |
+| Next session | Session 2 (2026-11-08) - still in [[Nightstone]], 03:00 in-game, party split. Plan: [[Session 002 - Riders at Dawn]] (PDF: `_Sources/Session 002 - DM Briefing.pdf`). |
 | Party level | 1 (level 2 milestone pending: one goblin is still asleep in the village) |
 | Party | [[B'Leep]] (Max), [[Shay Rajul-Aegis]] (Oxymoronic), [[Sylvaris]] (Niels), [[Wolfram Erenwald]] (player name unknown - "Player One") |
 | Live logs so far | [[Session 001 - Live Log]] |
@@ -35,7 +35,7 @@ If Claude can't see the folder, the folder isn't connected to that task. Add it 
 
 **Open to-dos before session 2**
 - [x] Session 1 recap posted to the Player Wiki.
-- [ ] Between sessions: play B'Leep's private talk with Kella (Max) and Wolfram's scene with Lady Nandar's body (Player One). Tell Claude the outcome so the notes can be updated.
+- [ ] **At the start of session 2** (decided 2026-11-08): play B'Leep's private talk with Kella (Max) and Wolfram's scene with Lady Nandar's body (Player One), while Shay and Sylvaris act at the gate. Scripts: [[Session 001b - B'Leep and Kella (one-on-one)]] and [[Session 001b - Wolfram and Lady Nandar (one-on-one)]]. Tell Claude the outcome so the notes can be updated.
 - [ ] Decide: which house the last goblin sleeps in; whether the fourth guard (Kaelen Zam) is inside the keep; whether the guards raised the drawbridge.
 - [ ] Session 2 opening: the Seven Snakes ride up (if the drawbridge is raised, they call for it to be lowered). Then the Ear Seekers orc siege (p. 28), very dangerous at level 1-2.
 - [ ] 13 goblins fled, most likely back to Hark: the Dripping Caves will be on alert in session 3.
@@ -72,8 +72,8 @@ If Claude can't see the folder, the folder isn't connected to that task. Add it 
 | Claude file access | `device_bash` **fails on both PCs** (laptop: a Windows update blocks it; desktop: "Workspace unavailable"). Use `device_list_dir`, `device_stage_files` (read) and `device_commit_files` (write) instead. Retry `device_bash` once per session; it may work after a Windows update. |
 | Blocked | Writing inside any `.git` folder is not allowed via Claude's tools. Git operations that need the terminal must be done by Jeroen in **Git Bash**. |
 | Browser | Claude's in-app browser has github.com allowed; Jeroen signs in himself (Claude never types passwords). |
-| Timezone | Jeroen lives in **UTC+7** (Bangkok). Sessions are scheduled in **Amsterdam time** (the players' time): 12:00-17:00 Amsterdam = **17:00-22:00 for Jeroen**. Use the local time from his start message for live-log timestamps, and say "AMS" when you mean the players' clock. |
-| Table setup | **PC:** Tabletop Simulator (with a Steam Workshop D&D table mod; its initiative and HP tracking are used for combat), Obsidian for reading, Claude desktop app running so the vault stays linked. **Laptop:** the same Claude chat, used for questions and updates. **Phone:** Discord voice. Sessions run about 12:00-17:00 Amsterdam time (17:00-22:00 Jeroen's time) with a break around 14:15 AMS. Full procedure: [[Session Day Runbook]]. |
+| Timezone | Jeroen lives in **UTC+7** (Bangkok). Sessions are scheduled in **Amsterdam time** (the players' time): 12:00-17:00 Amsterdam = **17:00-22:00 for Jeroen in summer time, 18:00-23:00 in winter time** (end of October to end of March). Use the local time from his start message for live-log timestamps, and say "AMS" when you mean the players' clock. |
+| Table setup | **PC:** Tabletop Simulator (with a Steam Workshop D&D table mod; its initiative and HP tracking are used for combat), Obsidian for reading, Claude desktop app running so the vault stays linked. **Laptop:** the same Claude chat, used for questions and updates. **Phone:** Discord voice. Sessions run about 12:00-17:00 Amsterdam time (Jeroen: 17:00-22:00 in summer, 18:00-23:00 in winter) with a break around 14:15 AMS. Full procedure: [[Session Day Runbook]]. |
 | DM style | New DM, new to the campaign. He mostly asks "the party does X, what happens?". Treat questions as updates (log what they reveal), answer with what to say or roll plus the page, and give a status plus "likely next" on `break`. He does **not** want to report every event. |
 
 ## Vault conventions
