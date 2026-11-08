@@ -19,6 +19,7 @@ attendees: ["Max", "Oxymoronic", "Niels", "Player One"]
 | 20:28 | The party **raises the drawbridge** just before the riders arrive. Nobody believes [[B'Leep]] any more: he keeps insisting the Zhentarim come with good intentions. |
 | 20:28 | The Seven Snakes ([[Xolkin Alassandar]]) arrive at the raised drawbridge. |
 | 20:28 | The guards don't believe the riders' story at all. They now take orders from [[Wolfram Erenwald]]. |
+| 20:33 | (Earlier, before her capture, Kella sent her flying snake to Xolkin, so he arrives knowing she's a prisoner.) Xolkin skips the bounty-hunter ruse and opens with a ransom offer. |
 
 ## NPCs met or changed
 - [[Nandar Keep Guards]]: now serve under Wolfram's command.
