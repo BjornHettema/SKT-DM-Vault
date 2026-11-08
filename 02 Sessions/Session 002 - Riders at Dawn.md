@@ -31,6 +31,7 @@ milestone: false
     - **The guards:** **Sydiri** and **Alara** are on the gate towers with Shay and Sylvaris; **Kaelen** is with Wolfram; **Torem** (the one who wanted to run) stayed in the keep.
     - **The giant's words:** which version did you use? ("The Countess waits" or "Bring it home"). Write it in [[Open Threads]].
 - [ ] Party level: **1**. The level 2 milestone is waiting on the last goblin (Gum-Gum).
+- [ ] **Award the session 1 XP you forgot** at the start: 2 worgs (200) + goblins killed (50 each). With 13 goblins: 850 XP, **212 each**. Level 2 needs 300, so nobody levels up yet. (Or use the book's milestones: level 2 once Gum-Gum is dealt with, at the next rest.)
 
 ## 1. Opening: one-on-ones and the gate (about 45 min)
 

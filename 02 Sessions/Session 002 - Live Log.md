@@ -13,6 +13,8 @@ attendees: ["Max", "Oxymoronic", "Niels", "Player One"]
 | Time | What happened |
 |---|---|
 | 19:11 | [[Shay Rajul-Aegis]] and [[Sylvaris]] discover that [[B'Leep]] is lying, and go to interrogate [[Kella Darkhope]]. |
+| 19:14 | Shay rolls Insight vs Kella's Deception to see whether she's really a monk. |
+| 19:19 | Shay wins: Kella is clearly no monk. *Detect magic* is cast: nothing magical on Kella or her snake; a faint enchantment aura from Morak's locked chest next door (8c, potion of heroism). |
 
 ## NPCs met or changed
 -
