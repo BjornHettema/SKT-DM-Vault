@@ -15,9 +15,10 @@ attendees: ["Max", "Oxymoronic", "Niels", "Player One"]
 | 19:11 | [[Shay Rajul-Aegis]] and [[Sylvaris]] discover that [[B'Leep]] is lying, and go to interrogate [[Kella Darkhope]]. |
 | 19:14 | Shay rolls Insight vs Kella's Deception to see whether she's really a monk. |
 | 19:19 | Shay wins: Kella is clearly no monk. *Detect magic* is cast: nothing magical on Kella or her snake; a faint enchantment aura from Morak's locked chest next door (8c, potion of heroism). |
+| 19:35 | Shay intimidates Kella (DC 15 success): she admits she's no monk and works with "people who guard caravans". She is taken **prisoner** and held in the temple (5). |
 
 ## NPCs met or changed
--
+- [[Kella Darkhope]]: unmasked as no monk; admits she works with caravan guards; now a prisoner in the temple.
 
 ## Loot & rewards
 | Who | What |
@@ -37,7 +38,8 @@ attendees: ["Max", "Oxymoronic", "Niels", "Player One"]
 -
 
 ## New threads
--
+- Kella is a prisoner: when the riders arrive, Xolkin will offer five 100 gp gems for her, then try force (p. 28).
+- B'Leep was caught lying about his talk with Kella.
 
 ## Lookups asked
 - Kella under interrogation: rolls, what she admits, B'Leep options.
