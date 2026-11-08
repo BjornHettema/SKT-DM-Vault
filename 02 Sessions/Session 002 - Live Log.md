@@ -16,8 +16,13 @@ attendees: ["Max", "Oxymoronic", "Niels", "Player One"]
 | 19:14 | Shay rolls Insight vs Kella's Deception to see whether she's really a monk. |
 | 19:19 | Shay wins: Kella is clearly no monk. *Detect magic* is cast: nothing magical on Kella or her snake; a faint enchantment aura from Morak's locked chest next door (8c, potion of heroism). |
 | 19:35 | Shay intimidates Kella (DC 15 success): she admits she's no monk and works with "people who guard caravans". She is taken **prisoner** and held in the temple (5). |
+| 20:28 | The party **raises the drawbridge** just before the riders arrive. Nobody believes [[B'Leep]] any more: he keeps insisting the Zhentarim come with good intentions. |
+| 20:28 | The Seven Snakes ([[Xolkin Alassandar]]) arrive at the raised drawbridge. |
+| 20:28 | The guards don't believe the riders' story at all. They now take orders from [[Wolfram Erenwald]]. |
 
 ## NPCs met or changed
+- [[Nandar Keep Guards]]: now serve under Wolfram's command.
+- [[Xolkin Alassandar]]: arrived with the Seven Snakes at the raised drawbridge.
 - [[Kella Darkhope]]: unmasked as no monk; admits she works with caravan guards; now a prisoner in the temple.
 
 ## Loot & rewards
