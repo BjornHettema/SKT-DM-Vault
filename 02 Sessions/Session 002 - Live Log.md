@@ -21,6 +21,7 @@ attendees: ["Max", "Oxymoronic", "Niels", "Player One"]
 | 20:28 | The guards don't believe the riders' story at all. They now take orders from [[Wolfram Erenwald]]. |
 | 20:33 | (Earlier, before her capture, Kella sent her flying snake to Xolkin, so he arrives knowing she's a prisoner.) Xolkin skips the bounty-hunter ruse and opens with a ransom offer. |
 | 20:46 | The party wants to lock [[Kella Darkhope]] and [[B'Leep]] inside the temple (5) by rolling the giants' boulders against it. |
+| 21:17 | The Seven Snakes arrive. The party knows they're Zhentarim and first refuses them entry, then **lets them into the village**, but won't let Xolkin reach Kella in the temple. |
 
 ## NPCs met or changed
 - [[Nandar Keep Guards]]: now serve under Wolfram's command.
