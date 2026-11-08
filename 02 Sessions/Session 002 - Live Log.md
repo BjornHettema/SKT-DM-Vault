@@ -20,6 +20,7 @@ attendees: ["Max", "Oxymoronic", "Niels", "Player One"]
 | 20:28 | The Seven Snakes ([[Xolkin Alassandar]]) arrive at the raised drawbridge. |
 | 20:28 | The guards don't believe the riders' story at all. They now take orders from [[Wolfram Erenwald]]. |
 | 20:33 | (Earlier, before her capture, Kella sent her flying snake to Xolkin, so he arrives knowing she's a prisoner.) Xolkin skips the bounty-hunter ruse and opens with a ransom offer. |
+| 20:46 | The party wants to lock [[Kella Darkhope]] and [[B'Leep]] inside the temple (5) by rolling the giants' boulders against it. |
 
 ## NPCs met or changed
 - [[Nandar Keep Guards]]: now serve under Wolfram's command.
@@ -41,7 +42,7 @@ attendees: ["Max", "Oxymoronic", "Niels", "Player One"]
 -
 
 ## Rulings to check
--
+- Boulders (500 lb, p. 20): push/drag up to STR x 30 lb (PHB p. 176); ruling: two PCs together roll one, DC 10 Athletics, speed 5 ft, about 1 minute per boulder. Combining strength is a DM ruling, not in the PHB.
 
 ## New threads
 - Kella is a prisoner: when the riders arrive, Xolkin will offer five 100 gp gems for her, then try force (p. 28).
