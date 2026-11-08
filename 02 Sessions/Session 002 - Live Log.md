@@ -22,6 +22,7 @@ attendees: ["Max", "Oxymoronic", "Niels", "Player One"]
 | 20:33 | (Earlier, before her capture, Kella sent her flying snake to Xolkin, so he arrives knowing she's a prisoner.) Xolkin skips the bounty-hunter ruse and opens with a ransom offer. |
 | 20:46 | The party wants to lock [[Kella Darkhope]] and [[B'Leep]] inside the temple (5) by rolling the giants' boulders against it. |
 | 21:17 | The Seven Snakes arrive. The party knows they're Zhentarim and first refuses them entry, then **lets them into the village**, but won't let Xolkin reach Kella in the temple. |
+| 21:25 | Kella and Xolkin are reunited inside Nightstone. The orcs (Ear Seekers) will arrive soon. The players ask whether the Zhentarim will leave after the attack (they don't intend to). |
 
 ## NPCs met or changed
 - [[Nandar Keep Guards]]: now serve under Wolfram's command.
@@ -48,6 +49,7 @@ attendees: ["Max", "Oxymoronic", "Niels", "Player One"]
 ## New threads
 - Kella is a prisoner: when the riders arrive, Xolkin will offer five 100 gp gems for her, then try force (p. 28).
 - B'Leep was caught lying about his talk with Kella.
+- The Zhentarim intend to stay in Nightstone as a Black Network base; a clash with the returning villagers is coming.
 
 ## Lookups asked
 - Kella under interrogation: rolls, what she admits, B'Leep options.
