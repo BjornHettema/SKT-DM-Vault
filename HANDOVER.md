@@ -15,31 +15,31 @@ If Claude can't see the folder, the folder isn't connected to that task. Add it 
 
 ## Current state
 
-*Last updated: 2026-11-08 (session 2 planned).*
+*Last updated: 2026-11-08 (after session 2).*
 
 | | |
 |---|---|
-| Sessions played | Session 0 (session zero), Session 1 (2026-10-04) |
-| Next session | Session 2 (2026-11-08) - still in [[Nightstone]], 03:00 in-game, party split. Plan: [[Session 002 - Riders at Dawn]] (PDF: `_Sources/Session 002 - DM Briefing.pdf`). |
-| Party level | 1 (level 2 milestone pending: one goblin is still asleep in the village) |
+| Sessions played | Session 0 (session zero), Session 1 (2026-10-04), Session 2 (2026-11-08) |
+| Next session | Session 3 - Nightstone, **the orc ambush, starting at initiative**. See *Where we stopped* below and [[Session 002 - Live Log]]. |
+| Party level | 1 (212 XP each; book milestone for level 2 reached, but no rest yet) |
 | Party | [[B'Leep]] (Max), [[Shay Rajul-Aegis]] (Oxymoronic), [[Sylvaris]] (Niels), [[Wolfram Erenwald]] (player name unknown - "Player One") |
-| Live logs so far | [[Session 001 - Live Log]] |
+| Live logs so far | [[Session 001 - Live Log]], [[Session 002 - Live Log]] |
 
-**Where we stopped (end of session 1, 03:00 in-game)**
-- Worgs killed. The goblins fled the village, except **one asleep in a house** (the players don't know; the DM picks the house).
-- After a long rest the party found [[Kella Darkhope]] at the inn. [[B'Leep]] showed his Zhentarim tattoo; she asked to talk with him alone. The party half-trusts her.
-- [[B'Leep]]: at the inn with Kella. [[Wolfram Erenwald]]: in the keep with one guard, at Lady Nandar's body. [[Shay Rajul-Aegis]] and [[Sylvaris]]: on the drawbridge gate tower with two guards.
-- The party knows: giants came on clouds, dropped rocks, stole the stone; a giant shouted about "Ostoria" (an ancient giant empire that fell in a war with dragons). They know the villagers fled north to some caves, but not that goblins hold them prisoner.
-- Loot: silver necklace (20 sp), 1 gp, small dagger. No Inspiration recorded.
-- The **Seven Snakes have not arrived** (they are overdue: the party already had its long rest).
+**Where we stopped (end of session 2)**
+- All village goblins are gone (Gum-Gum, the last one, was killed).
+- One-on-ones: [[B'Leep]] **secretly agreed to help Kella**; the others caught him lying and no longer trust him. [[Wolfram Erenwald]] commands the four guards, has Lady Nandar's unfinished letter (warning about Kella), swore a vow, and has **Inspiration**.
+- [[Kella Darkhope]] was unmasked (no monk; "caravan guards"), briefly held in the temple, then reunited with [[Xolkin Alassandar]].
+- The **Seven Snakes are inside Nightstone** as allies for the orc fight. Deal: afterwards they leave and pay five gems ("emeralds"). **They don't intend to leave.**
+- The **Ear Seekers** (Gurrash at 60 HP, Norgra One-Eye, 20 orcs) have arrived. The party **opened the gate on purpose** to lure them in: most PCs hidden in buildings, two guards in the gate towers by the drawbridge, the other guards and the Zhents spread through the village. **Stopped before initiative.**
+- The party knows the villagers are prisoners in caves to the north (from Gum-Gum, if she talked before she died: check) and that the riders are Zhentarim.
 
-**Open to-dos before session 2**
-- [x] Session 1 recap posted to the Player Wiki.
-- [ ] **At the start of session 2** (decided 2026-11-08): play B'Leep's private talk with Kella (Max) and Wolfram's scene with Lady Nandar's body (Player One), while Shay and Sylvaris act at the gate. Scripts: [[Session 001b - B'Leep and Kella (one-on-one)]] and [[Session 001b - Wolfram and Lady Nandar (one-on-one)]]. Tell Claude the outcome so the notes can be updated.
-- [ ] Decide: which house the last goblin sleeps in; whether the fourth guard (Kaelen Zam) is inside the keep; whether the guards raised the drawbridge.
-- [ ] Session 2 opening: the Seven Snakes ride up (if the drawbridge is raised, they call for it to be lowered). Then the Ear Seekers orc siege (p. 28), very dangerous at level 1-2.
-- [ ] 13 goblins fled, most likely back to Hark: the Dripping Caves will be on alert in session 3.
-- [ ] Confirm which version of the giant's words was used ("Careful! Ostoria's stone. The Countess waits." or "... Bring it home.").
+**Open to-dos before session 3**
+- [ ] Open with the ambush: hidden PCs roll **Stealth** vs the orcs' passive Perception (10). Orcs that notice nobody are **surprised** in round 1 (PHB p. 189). Run the orcs as 4 squads of 5. Plan in [[Nightstone - Ear Seekers]].
+- [ ] Note: the book's "flee after losing half" rule only applies while the orcs **haven't** got into the village. Lured inside, they fight to the death. Keep the **8 elf scouts** (Rond Arrowhome) ready as the safety net, since the party is still level 1.
+- [ ] Decide XP: Gum-Gum (50) and the Seven Snakes negotiation (up to 600, DMG p. 261), plus the orcs. Book milestone after the siege: **level 3** (at the next rest).
+- [ ] After the siege: Xolkin's promise (leave + five emeralds) vs. the Zhents staying; B'Leep's secret; then the Dripping Caves (session 3 or 4).
+- [ ] Ask Wolfram's player what he vowed, and record it in his note.
+- [ ] Confirm which version of the giant's words was used ("The Countess waits" or "Bring it home").
 
 **Open to-dos carried over from session 1 prep**
 - [ ] Settle the sheet checks. Suggested fixes are in each PC note under *Session 1* (B'Leep INT 18 → 17; Shay: official Clan Crafter feature; Sylvaris: a Good ideal; Wolfram: player name).
@@ -109,3 +109,4 @@ Then save it as `_Sources/Storm Kings Thunder - text.txt` with `device_commit_fi
 |---|---|---|---|---|
 | 0 | 2026-09-25 (approx.) | - | Session zero: table rules agreed, four PCs created | - |
 | 1 | 2026-10-04 | [[Ch 01 - A Great Upheaval]] | Arrived at Nightstone; killed the worgs, goblins fled. Found Kella (B'Leep showed his Zhentarim tattoo) and three keep guards; learned about the giants and "Ostoria". Ended 03:00 in-game, party split. | [[Session 001 - Live Log]] |
+| 2 | 2026-11-08 | [[Ch 01 - A Great Upheaval]] | One-on-ones (B'Leep joins Kella in secret; Wolfram takes command and swears a vow). Kella unmasked and held, then reunited with the Seven Snakes, who are let in as allies. The Ear Seekers arrive; the party opens the gate to ambush them. Ended before initiative. | [[Session 002 - Live Log]] |

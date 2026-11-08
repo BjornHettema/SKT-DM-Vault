@@ -18,7 +18,8 @@ tags: [npc]
 **Voice / mannerism:**
 
 ## What the party knows
-- Her guards watch over her in the keep. Wolfram asked to see her and a guard is taking him in (one-on-one scene pending, Session 1).
+- Her guards watch over her in the keep. Wolfram asked to see her (Session 1).
+- Wolfram saw her body with Kaelen Zam, took her unfinished letter (to Helm's priests; it names him as the promised "sworn shield" and says she distrusted Kella), and swore a vow (Session 2).
 
 ## DM-only secrets
 - Wears a nonmagical gold wedding ring set with tourmalines (750 gp). The guards object to anyone taking it.

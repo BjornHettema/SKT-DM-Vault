@@ -4,9 +4,9 @@ status: alive
 location: "[[Nightstone]]"
 faction: "[[Zhentarim]]"
 chapter: "[[Ch 01 - A Great Upheaval]]"
-attitude: neutral
-met: false
-first_met:
+attitude: friendly
+met: true
+first_met: "[[Session 002 - Live Log]]"
 voice: smooth, flattering, smiles too much
 tags: [npc]
 ---
@@ -19,7 +19,8 @@ tags: [npc]
 **Stat block:** Bandit Captain (2014), with six Bandits.
 
 ## What the party knows
--
+- Arrived at dawn with six riders (the Seven Snakes) to free Kella; the party recognised them as Zhentarim (Session 2).
+- Let into the village. Deal: they help fight the orcs, then leave and pay five gems ("emeralds"). **He doesn't intend to leave** (DM).
 
 ## DM-only secrets
 - Will trade five 100 gp gems for Kella's life, and use force if that fails.

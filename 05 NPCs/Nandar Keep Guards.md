@@ -39,6 +39,8 @@ tags: [npc]
 - One guard took Wolfram into the keep to see Lady Nandar (one-on-one scene pending).
 - Two guards, worried that the drawbridge was still down, went with Shay and Sylvaris to the gate tower. They told the party: giants came on clouds, dropped rocks, and stole the big stone; the villagers fled north to some caves; one repeated a few words a giant shouted (Ostoria).
 - Which guard is which: not fixed at the table yet.
+- Now serve under **Wolfram's command** and don't trust the Zhentarim (Session 2).
+- At the orc ambush: two guards in the gate towers by the drawbridge, the others spread through the village (Session 2).
 
 ## Appearances
 ```dataview

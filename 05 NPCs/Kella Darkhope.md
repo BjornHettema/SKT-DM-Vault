@@ -21,7 +21,10 @@ tags: [npc]
 ## What the party knows
 - Found at the inn at 03:00, after the party's long rest: a quiet survivor who was left behind (Session 1).
 - B'Leep showed her his Zhentarim tattoo. She asked to speak with him alone; the rest of the party agreed. They half-trust her (Session 1).
-- **Pending:** B'Leep's private talk with her, played between sessions 1 and 2. Record the outcome here.
+- B'Leep's private talk with her (Session 2): she revealed she's Zhentarim and that friends were coming; **B'Leep agreed to help her** (secret from the others).
+- Shay and Sylvaris questioned her (Session 2). Shay saw she's no monk; she admitted she works with "people who guard caravans". Held prisoner in the temple; before that, she sent her flying snake to Xolkin.
+- Reunited with [[Xolkin Alassandar]] when the party let the Seven Snakes in and made a deal (Session 2).
+- Lady Nandar's unfinished letter (now with Wolfram) says she distrusted Kella.
 
 ## DM-only secrets
 - Had nothing to do with the giants; she only takes advantage of the attack.

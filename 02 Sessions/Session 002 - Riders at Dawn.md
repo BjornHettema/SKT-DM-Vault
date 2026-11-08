@@ -176,14 +176,29 @@ After the siege, the villagers are still prisoners in the Dripping Caves a mile 
 -
 
 ## 9. After the session
+Full log: [[Session 002 - Live Log]]. Ended **before initiative**, with the Ear Seekers coming through the open gate into the ambush.
+
 ### Loot & rewards
--
+- Nothing new yet. Promised: five gems ("emeralds") from Xolkin after the orc fight.
 
 ### XP / milestone
--
+- Session 1 XP awarded: 212 each. Gum-Gum (50 XP) and the Seven Snakes negotiation (up to 600 XP) still to decide.
+- Book milestone for level 2 reached (all village goblins dealt with), but no rest yet: **level 1 for the orc fight**.
 
 ### Threads opened / closed
-- [ ]
+- [x] Gum-Gum, the last goblin (killed)
+- [x] Kella unmasked and briefly held prisoner
+- [ ] B'Leep secretly agreed to help Kella and the Zhentarim
+- [ ] The Zhents promised to leave and pay five emeralds after the fight; they don't intend to leave
+- [ ] Wolfram's vow at Lady Nandar's body; he has her letter about Kella
+- [ ] The orc ambush, mid-start (session 3 opens here)
 
 ### Player recap (spoiler-free - copy to the Player Wiki)
+In the grey hours before dawn, Shay and Sylvaris kept watch at the gate with two of Lady Nandar's guards, and the last goblin hiding in the village was found and killed. In the keep, Wolfram stood over Lady Nandar's body, found an unfinished letter tucked in her sleeve, and swore a vow. The guards now answer to him.
+
+Shay and Sylvaris did not believe B'Leep's account of his private talk with Kella, and went to question her themselves. Shay saw straight through her: she was no monk. Pressed hard, she admitted she worked with "people who guard caravans", and the party locked her up in the temple. Before they did, a little winged snake slipped away to the south.
+
+At dawn, seven riders came up the trail. The party raised the drawbridge just in time. Their leader, a smiling half-elf named Xolkin, had come for Kella, and the party recognised the riders for what they were: the Zhentarim. After tense talks, a deal was struck. The riders were let in, Kella went back to Xolkin, and the Zhentarim agreed to help hold Nightstone against the orcs coming out of the forest. Afterwards, they would pay five emeralds and ride on.
+
+Then the orcs came: more than twenty of them, fleeing out of the Ardeep Forest, with a huge war chief at their head. The party threw the gate open, hid in the houses, and waited for them to walk into the trap...
 

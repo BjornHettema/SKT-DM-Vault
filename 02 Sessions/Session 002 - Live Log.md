@@ -23,6 +23,11 @@ attendees: ["Max", "Oxymoronic", "Niels", "Player One"]
 | 20:46 | The party wants to lock [[Kella Darkhope]] and [[B'Leep]] inside the temple (5) by rolling the giants' boulders against it. |
 | 21:17 | The Seven Snakes arrive. The party knows they're Zhentarim and first refuses them entry, then **lets them into the village**, but won't let Xolkin reach Kella in the temple. |
 | 21:25 | Kella and Xolkin are reunited inside Nightstone. The orcs (Ear Seekers) will arrive soon. The players ask whether the Zhentarim will leave after the attack (they don't intend to). |
+| 22:06 | Deal: the Zhentarim fight alongside the party against the orcs; afterwards the players expect them to **leave and pay the five gems (emeralds)**. The Zhents don't plan to leave. |
+| 22:06 | The **Ear Seekers arrive**. The party **opens the gate on purpose to lure them in**. Most of the party hides in the buildings; two guards are in the gate towers by the drawbridge; the other guards and the Zhents are spread through the village. |
+| 22:06 | **Session ends before initiative**, with the orcs coming through the open gate. |
+| Earlier | One-on-ones: [[B'Leep]] **agreed to help Kella** (secret). [[Wolfram Erenwald]] took command of the guards, took Lady Nandar's unfinished letter, and **swore a vow** (Inspiration). |
+| Earlier | Gum-Gum, the last goblin, was **killed**: every goblin in the village is now dealt with. |
 
 ## NPCs met or changed
 - [[Nandar Keep Guards]]: now serve under Wolfram's command.
@@ -34,14 +39,18 @@ attendees: ["Max", "Oxymoronic", "Niels", "Player One"]
 |---|---|
 
 ## XP / milestone
-- Session 1 XP still to award at the table: 2 worgs (200) + goblins killed (50 each); with 13 goblins, 212 each.
+- Session 1 XP awarded at the table: **212 each** (2 worgs + 13 goblins). Party still **level 1**.
+- Gum-Gum killed: 50 XP (12 each), check whether it was given.
+- Seven Snakes: overcome by negotiation (alliance). DMG p. 261 allows XP for this (up to 600, 150 each): DM's call, not given yet.
+- Book milestone: all village goblins dealt with = level 2, but they haven't rested since, so they face the orcs at **level 1**.
 
 ## Inspiration
 | PC | For | Spent? |
 |---|---|---|
+| [[Wolfram Erenwald]] | His vow at Lady Nandar's body | no |
 
 ## Alignment watch
--
+- [[B'Leep]] (Neutral) secretly agreed to help the Zhentarim take the village while its people are prisoners: worth watching.
 
 ## Rulings to check
 - Boulders (500 lb, p. 20): push/drag up to STR x 30 lb (PHB p. 176); ruling: two PCs together roll one, DC 10 Athletics, speed 5 ft, about 1 minute per boulder. Combining strength is a DM ruling, not in the PHB.
